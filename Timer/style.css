@@ -1,14 +1,30 @@
 h1{
-  color: white;
+  text-transform: capitalize;
   text-align: center;
-
+  color: white;
+  font-family: arial;
 }
 p{
-
-  color: cyan;
+  font-size: xxx-large;
+  color: brown;
   text-align: center;
+  margin-top: 125px;
+  font-family: arial;
+}
+button{
+  font-size: xx-large;
+  margin-top: 50px;
+  border-radius: 50px;
+  width: 100px;
+  height: 50px;
+  border-color: pink;
+  border-width: thick;
+  background-color: pink;
+  color:white;
+
 }
 body {
   background-image: url("starfall.gif");
   background-size: cover;
+  text-align: center;
 }
