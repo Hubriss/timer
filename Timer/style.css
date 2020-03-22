@@ -1,0 +1,14 @@
+h1{
+  color: white;
+  text-align: center;
+
+}
+p{
+
+  color: cyan;
+  text-align: center;
+}
+body {
+  background-image: url("starfall.gif");
+  background-size: cover;
+}
